@@ -23,7 +23,7 @@ Varios proyectos a la espalda.
 ## **Formación**
   | Nombre                                                              | Centro de enseñanza                    | Año de inicio | Año de finalización |
 |---------------------------------------------------------------------|-----------------------------------------|---------------|------------|
-| Educación Primaria y Educación Secundaria Obligatoria, E.S.O | Colegio Jesús Maestro            | 2001          | 2015       |
+| Educación Primaria y Educación Secundaria Obligatoria, E.S.O | Colegio Jesús Maestro            | 2004          | 2015       |
 | Grado en SMR        | ISEP CEU San Pablo      | 2015       | 2017      |
 | Grado en DAM        | ISEP CEU San Pablo      | 2017          | 2019      |
 
@@ -49,22 +49,26 @@ Varios proyectos a la espalda.
   + Trello for Agile
   
   + MongoDB
+  + Hibernate
   + PHPMyAdmin
+  
+  + JPA
   
   + XAMPP
   
   + Unity
 
 #### Lenguajes de programación y frameworks manejados:
+
   + C++
   + C#
   
   + Java
   + JavaFX
-  + JavaScript
   
   + HTML
   + CSS
+  + JavaScript
   
   + XML
   + JSON
@@ -80,6 +84,7 @@ Varios proyectos a la espalda.
   
   
 #### Otros conocimientos:
+
   + CISCO (Certificate)
   
   + Administración básica de redes y SO en red
