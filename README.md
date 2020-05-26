@@ -26,8 +26,8 @@ Actualmente involucrado en dos proyectos de gran calibre.
   | Nombre                                                              | Centro de enseñanza                    | Año de inicio | Año de finalización |
 |---------------------------------------------------------------------|-----------------------------------------|---------------|------------|
 | Educación Primaria y E.S.O | I.E.S. Jesús Maestro            | 2004          | 2015       |
-| Grado en SMR        | ISEP CEU San Pablo      | 2015       | 2017      |
-| Grado en DAM        | ISEP CEU San Pablo      | 2017          | 2019      |
+| Grado en SMR        | I.S.E.P. CEU San Pablo      | 2015       | 2017      |
+| Grado en DAM        | I.S.E.P. CEU San Pablo      | 2017          | 2019      |
 
   ### **Habilidades técnicas**
 
