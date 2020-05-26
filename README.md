@@ -20,6 +20,8 @@ Dinámico, con muchas ganas de crear, moverme, aprender de todas las tecnología
 
 Varios proyectos a la espalda.
 
+Actualmente involucrado en dos proyectos de gran calibre.
+
 ## **Formación**
   | Nombre                                                              | Centro de enseñanza                    | Año de inicio | Año de finalización |
 |---------------------------------------------------------------------|-----------------------------------------|---------------|------------|
@@ -57,6 +59,8 @@ Varios proyectos a la espalda.
   + XAMPP
   
   + Unity
+  
+  + TeamViewer
 
 #### Lenguajes de programación y frameworks manejados:
 
@@ -108,7 +112,9 @@ Varios proyectos a la espalda.
 
 + Repartidor en varias empresas de fastfood
 
-+ Desarrollador en el departamento de ADH en Alten S.A.
++ Técnico de nivel 0, 1 y 2 de soporte presencial y remoto, en Necesidades Informáticas S.L.
+
++ Desarrollador en el departamento de ADH, en Alten S.A.
 
 
 ## **Otra información**
